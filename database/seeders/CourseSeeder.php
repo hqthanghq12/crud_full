@@ -19,32 +19,32 @@ class CourseSeeder extends Seeder
                 'course_name' => 'Laravel for Beginners',
                 'description' => 'Learn the basics of Laravel, one of the most popular PHP frameworks.',
                 'duration' => 40,
-                'price' => 199.99,
-                'image_url' => 'laravel_beginners.jpg',
+                'price' => 200,
+                'image_url' => null,
                 'category_id' => 1
             ],
             [
                 'course_name' => 'Business Management 101',
                 'description' => 'An introduction to the fundamental concepts of business management.',
                 'duration' => 60,
-                'price' => 299.99,
-                'image_url' => 'business_management.jpg',
+                'price' => 300,
+                'image_url' => null,
                 'category_id' => 2
             ],
             [
                 'course_name' => 'Digital Painting Basics',
                 'description' => 'Explore the world of digital art with this beginner course.',
                 'duration' => 50,
-                'price' => 149.99,
-                'image_url' => 'digital_painting.jpg',
+                'price' => 150,
+                'image_url' => null,
                 'category_id' => 4
             ],
             [
                 'course_name' => 'Health & Nutrition',
                 'description' => 'Learn the basics of health and nutrition for a healthy lifestyle.',
                 'duration' => 30,
-                'price' => 99.99,
-                'image_url' => 'health_nutrition.jpg',
+                'price' => 100,
+                'image_url' => null,
                 'category_id' => 3
             ]
         ]);
